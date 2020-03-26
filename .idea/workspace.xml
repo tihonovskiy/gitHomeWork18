@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f77dd75e-f2d0-4d37-bb02-d9697ca035b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HW17Gson" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\IdeaProjects\HW17Gson\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZUee035s6IcRNYxmlJ19TSKqTj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\HW17Gson\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HW17Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW17Task3" />
+      <module name="HW17Gson" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HW17Task3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f77dd75e-f2d0-4d37-bb02-d9697ca035b6" name="Default Changelist" comment="" />
+      <created>1584898191817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584898191817</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Project_Structure" timestamp="1584907914075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584907914075" />
+    <state x="361" y="72" key="#Vim_Emulation" timestamp="1585253798574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Vim_Emulation/0.0.1536.824@0.0.1536.824" timestamp="1585253798574" />
+    <state x="530" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585253783518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585253783518" />
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1585081262991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585081262991" />
+    <state x="566" y="273" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584901682866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="273" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1584901682866" />
+    <state x="248" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585080823013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="248" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1585080823013" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584904384884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584904384884" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1585229620329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585229620329" />
+    <state width="1493" height="163" key="GridCell.Tab.0.bottom" timestamp="1585082176261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="163" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585082176261" />
+    <state width="1493" height="163" key="GridCell.Tab.0.center" timestamp="1585082176261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="163" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585082176261" />
+    <state width="1493" height="163" key="GridCell.Tab.0.left" timestamp="1585082176261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="163" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585082176261" />
+    <state width="1493" height="163" key="GridCell.Tab.0.right" timestamp="1585082176261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="163" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585082176261" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1584909167309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584909167309" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1584909167309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584909167309" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1584909167309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584909167309" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1584909167309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584909167309" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1585253606162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585253606162" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1585251743233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585251743233" />
+    <state x="209" y="109" key="new project wizard" timestamp="1585254414200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="109" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585254414200" />
+    <state x="599" y="204" key="svn.repositoryBrowser" timestamp="1585229546938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="204" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1585229546938" />
+  </component>
+</project>
